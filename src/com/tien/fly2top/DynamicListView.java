@@ -223,7 +223,6 @@ public class DynamicListView extends ListView {
                 if(getFirstVisiblePosition() == 0){
                     setEnabled(true);
                 }
-                
             }
             
             @Override
